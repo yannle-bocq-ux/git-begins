@@ -9,3 +9,5 @@ git commit -m "Description des modifications"
 
 Envoyer les modifications vers GitHub :
 git push
+Récupérer les modifications depuis GitHub :
+git pull
