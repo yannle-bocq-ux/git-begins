@@ -1,0 +1,11 @@
+Cloner un repository :
+git clone git@github.com:yannle-bocq-ux/git-begins.git
+
+Préparer les modifications :
+git add .
+
+Enregistrer les modifications :
+git commit -m "Description des modifications"
+
+Envoyer les modifications vers GitHub :
+git push
