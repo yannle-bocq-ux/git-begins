@@ -11,3 +11,9 @@ Envoyer les modifications vers GitHub :
 git push
 Récupérer les modifications depuis GitHub :
 git pull
+
+Créer une branche :
+git branch nom-de-la-branche
+
+Basculer sur une branche :
+git switch nom-de-la-branche
